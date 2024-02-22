@@ -1,6 +1,6 @@
-# PhotoMechanic Application
+# ImageMechanic Application
 ## Description
-This Application was my Bachelor Thesis titled "Java Application for massive Image Processing". PhotoMechanic offers an image editing solution where the user can edit all images within a directory of his choice. 
+This Application was my Bachelor Thesis titled "Java Application for massive Image Processing". ImageMechanic offers an image editing solution where the user can edit all images within a directory of his choice. 
 
 ### Walkthrough of the application
 
@@ -18,7 +18,7 @@ Finally, the user can select an export folder, where the processed images will a
 
 The Application is a monorepo featuring a layered architecture. 
 
-PhotoMechanic is written in java utilizing the Spring Boot framework for the Backend, while the Frontend does not have a framework of its own. 
+ImageMechanic is written in java utilizing the Spring Boot framework for the Backend, while the Frontend does not have a framework of its own. 
 
 The UI was created by using the Java Swing library.
 
